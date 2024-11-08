@@ -1,2 +1,2 @@
-## Shop-management
-# programmer Claire
+# Shop-management
+# This is a work of programmer Claire
