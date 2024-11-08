@@ -1,1 +1,2 @@
 ## Shop-management
+#programmer Claire
